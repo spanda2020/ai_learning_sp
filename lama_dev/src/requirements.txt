@@ -1,0 +1,8 @@
+langchain==0.3.0
+langchain-community==0.3.0
+langchain-experimental==0.3.0
+sqlalchemy==2.0.35
+pandas==2.2.3
+ollama==0.3.3
+
+pip install langchain==0.3.0 langchain-community==0.3.0 langchain-experimental==0.3.0 sqlalchemy==2.0.35 pandas==2.2.3 ollama==0.3.3 langchain_ollama==0.2.0
