@@ -14,7 +14,8 @@ LLM Support: Supports local inference with Ollama (llama3) and cloud inference w
 
 Sample Database: Includes a SQLite database (sample.db) with an airplanes table for demonstration.
 
-## Project Structure**
+```markdown
+## Project Structure
 
 lama_dev/
 ├── src/
@@ -44,7 +45,7 @@ lama_dev/
 ├── README.md                  # Project documentation
 └── sample.db                  # SQLite database with airplanes table
 
-
+```
 
 ## Prerequisites
 Python: 3.11 or higher
