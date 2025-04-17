@@ -1,4 +1,4 @@
-# Text-to-SQL Application**
+# Text-to-SQL Application using MCP
 This project implements a robust text-to-SQL solution that converts natural language questions into SQL queries, executes them against a SQLite database, and returns the results. It uses a LangChain ReAct agent with tools for query execution, table listing, and schema retrieval, supporting self-correction for complex queries. The application is built with Ollama (LLaMA) for local LLM inference and is compatible with AWS Bedrock (Claude) for cloud-based LLM inference, aligning with the AWS blog on text-to-SQL solutions.
 
 ## Features
