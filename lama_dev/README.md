@@ -16,7 +16,6 @@ Sample Database: Includes a SQLite database (sample.db) with an airplanes table 
 
 ## Project Structure**
 
-
 lama_dev/
 ├── src/
 │   ├── __init__.py
